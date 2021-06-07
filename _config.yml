@@ -147,6 +147,9 @@ google_analytics: ""
 # 百度统计
 baidu_analytics: ""
 
+#GTM
+google_tag_manager: ""
+
 # Mathjax数学公式
 mathjax: false
 
