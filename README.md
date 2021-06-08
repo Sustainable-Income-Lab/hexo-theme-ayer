@@ -1,4 +1,4 @@
-本主題 Fork 自 (Hexo-Theme-Ayer)[https://github.com/Shen-Yu/hexo-theme-ayer]
+本主題 Fork 自 [https://github.com/Shen-Yu/hexo-theme-ayer](Hexo-Theme-Ayer)
 
 # 安裝方式
 
